@@ -1,0 +1,11 @@
+POST http://localhost:7111/cars
+Accept: application/json
+Content-Type: application/json
+
+{
+  "id": 4,
+  "mark": "VW",
+  "model": "Polo",
+  "year": 1997,
+  "color": "BLACK"
+}

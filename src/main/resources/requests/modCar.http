@@ -1,0 +1,11 @@
+PUT http://localhost:7111/cars
+Accept: application/json
+Content-Type: application/json
+
+{
+  "id": 2,
+  "mark": "Polonez",
+  "model": "Atu",
+  "year": 2006,
+  "color": "RED"
+}

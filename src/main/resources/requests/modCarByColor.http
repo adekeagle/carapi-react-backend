@@ -1,0 +1,4 @@
+PATCH http://localhost:7111/cars/1?color=RED
+Accept: application/json
+Content-Type: application/json
+
